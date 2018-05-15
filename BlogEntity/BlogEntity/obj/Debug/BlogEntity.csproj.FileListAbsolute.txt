@@ -69,3 +69,11 @@ E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\obj\Debug\BlogEntity.c
 E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\obj\Debug\BlogEntity.csproj.CopyComplete
 E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\obj\Debug\BlogEntity.dll
 E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\obj\Debug\BlogEntity.pdb
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\EntityFramework.dll
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\EntityFramework.SqlServer.dll
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\MySql.Data.dll
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\MySql.Data.Entity.EF6.dll
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\EntityFramework.xml
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\EntityFramework.SqlServer.xml
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\MySql.Data.xml
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\MySql.Data.Entity.EF6.xml
