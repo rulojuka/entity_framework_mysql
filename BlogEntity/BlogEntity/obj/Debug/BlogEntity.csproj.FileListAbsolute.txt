@@ -77,3 +77,5 @@ E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\EntityFramework.xm
 E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\EntityFramework.SqlServer.xml
 E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\MySql.Data.xml
 E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\bin\MySql.Data.Entity.EF6.xml
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\obj\Debug\BlogEntity.Migrations.inicial.resources
+E:\workspace\entity_framework_mysql\BlogEntity\BlogEntity\obj\Debug\BlogEntity.csproj.GenerateResource.cache
